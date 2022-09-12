@@ -7,15 +7,15 @@
 
 - 😄 Pronouns: **He/Him**
 
-- 🤝 I’m looking for help with **MERN Stack Development**
+- 🤝 I’m looking for help with: **MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prateek9630](https://github.com/prateek9630)
 
-- 📫 How to reach me [bhattprateek999@gmail.com](bhattprateek999@gmail.com)
+- 📫 How to reach me: [bhattprateek999@gmail.com](bhattprateek999@gmail.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/prateek9630/](https://www.linkedin.com/in/prateek9630/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/prateek9630/](https://www.linkedin.com/in/prateek9630/)
 
-- ⚡ Fun fact **I think, I am not that funny**
+- ⚡ Fun fact: **I think, I am not that funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

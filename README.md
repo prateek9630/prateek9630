@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Prateek Bhatt</h1>
-<h3 align="center">A passionate Cloud Computing Undergrad from India</h3>
+<h3 align="center">A passionate Cloud Computing Undergrad Student from India</h3>
 
 - 🔭 I’m currently studying at **University of Petroleum and Energy Studies (UPES) Dehradun**
 
 - 🌱 I’m currently pursuing **BTech CSE (Cloud Computing and Virtualization Technology)**
 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: **He/Him**
 
 - 🤝 I’m looking for help with **MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prateek9630](https://github.com/prateek9630)
 
-- 📫 How to reach me **bhattprateek999@gmail.com**
+- 📫 How to reach me [bhattprateek999@gmail.com](bhattprateek999@gmail.com)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/prateek9630/](https://www.linkedin.com/in/prateek9630/)
 

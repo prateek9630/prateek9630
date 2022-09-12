@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **University of Petroleum and Energy Studies (UPES) Dehradun**
 
-- 🌱 I’m currently learning **BTech CSE (Cloud Computing and Virtualization)**
+- 🌱 I’m currently pursuing **BTech CSE (Cloud Computing and Virtualization Technology)**
 
 - 😄 Pronouns: He/Him
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/prateek9630/](https://www.linkedin.com/in/prateek9630/)
 
-- ⚡ Fun fact **I think, I am not funny**
+- ⚡ Fun fact **I think, I am not that funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

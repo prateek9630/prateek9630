@@ -7,7 +7,7 @@
 
 - 😄 Pronouns: **He/Him**
 
-- 🤝 I’m looking for help with: **MERN Stack Development**
+- 🤝 I’m looking for help with: **MERN Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prateek9630](https://github.com/prateek9630)
 
